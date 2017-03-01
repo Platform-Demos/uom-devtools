@@ -15,6 +15,7 @@ public class StringUtil {
         Person person = null;
 
         //comment
+        //comment2
         if (str == null) {
             throw new IllegalArgumentException();
         } else {
