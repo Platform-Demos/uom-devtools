@@ -16,6 +16,7 @@ public class StringUtil {
 
         //comment
         //comment2
+        //comment3
         if (str == null) {
             throw new IllegalArgumentException();
         } else {
