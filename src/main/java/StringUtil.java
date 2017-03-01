@@ -14,6 +14,7 @@ public class StringUtil {
     public Person checkStringAndPrint(String str) {
         Person person = null;
 
+        //comment
         if (str == null) {
             throw new IllegalArgumentException();
         } else {
